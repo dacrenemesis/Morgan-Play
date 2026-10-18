@@ -39,7 +39,7 @@ Explore the Morgan Play experience — from music discovery and artist pages to 
 <p align="center">
   <img src="screenshots/Music_page.jpg" width="32%" alt="Morgan Play music player" />
   <img src="screenshots/Homepage_bottom.jpg" width="32%" alt="Morgan Play home screen" />
-  <img src="screenshots/Artist_page2.jpg" width="49%" alt="Morgan Play artist details" />
+  <img src="screenshots/Artist_page2.jpg" width="32%" alt="Morgan Play artist details" />
   <img src="screenshots/Artist_page.jpg" width="32%" alt="Morgan Play artist page" />
 </p>
 
