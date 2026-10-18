@@ -28,3 +28,35 @@ This repository is a public project showcase. The complete application source co
 ---
 
 Built with passion for music and audio technology.
+
+
+## 📱 Screenshots
+
+Explore the Morgan Play experience — from music discovery and artist pages to advanced audio processing and ambient screensavers.
+
+### 🎵 Music Experience
+
+<p align="center">
+  <img src="screenshots/Music_page.jpg" width="32%" alt="Morgan Play music player" />
+  <img src="screenshots/Homepage_bottom.jpg" width="32%" alt="Morgan Play home screen" />
+  <img src="screenshots/Artist_page.jpg" width="32%" alt="Morgan Play artist page" />
+</p>
+
+### 🎚️ Audio & DSP
+
+<p align="center">
+  <img src="screenshots/Audio_DSP.jpg" width="49%" alt="Morgan Play audio DSP interface" />
+  <img src="screenshots/Artist_page2.jpg" width="49%" alt="Morgan Play artist details" />
+</p>
+
+### 🌙 Always-On Display & Screensaver
+
+<p align="center">
+  <img src="screenshots/AOD_Page.jpg" width="32%" alt="Morgan Play always-on display" />
+  <img src="screenshots/Screensaver_page.jpg" width="32%" alt="Morgan Play screensaver" />
+  <img src="screenshots/Screensaver_page2.jpg" width="32%" alt="Morgan Play screensaver design" />
+</p>
+
+<p align="center">
+  <img src="screenshots/Screensaver_page3.jpg" width="49%" alt="Morgan Play alternate screensaver" />
+</p>
